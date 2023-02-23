@@ -1,6 +1,7 @@
 datasets
 evaluate
 matplotlib
+notebook
 numpy
 pandas
 scikit-learn
